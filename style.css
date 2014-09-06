@@ -1,0 +1,58 @@
+body
+{
+background:#000000;
+font-family:Arial, Helvetica, sans-serif;
+color:#CCCCCC;
+}
+a:visited
+{
+background:#000000;
+font-family:Arial, Helvetica, sans-serif;
+color:#CCCCCC;
+}
+a{
+background:#000000;
+font-family:Arial, Helvetica, sans-serif;
+color:#CCCCCC;
+}
+a:hover
+{
+text-decoration:overline;
+color:#FFFF00;
+}
+#header
+{
+background:"http://techvisionblog.in/wp-content/uploads/2011/09/reader.png";
+float:left;
+height:50px;
+width:100%;
+}
+#menu
+{
+width:100%;
+height:40px;
+position:absolute;
+margin-top:20px;
+padding-left:20ps;
+}
+#menu ul{
+float:left;
+padding-left:5px;
+list-style: none;
+}
+#menu ul li
+{
+float:left;
+text-decoration:none;
+padding-right:15px;
+
+}
+#menu ul li a
+{
+text-decoration:none;
+}
+#form
+{
+padding-top:30px;
+float:left;
+}
